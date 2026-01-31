@@ -27,7 +27,7 @@ It emphasizes:
 
 ## Live Demo
 
-👉 *(Add GitHub Pages link here after enabling Pages)*
+👉  https://priyanshpanjabi0922.github.io/study-planner-ui/
 
 ## Notes
 
